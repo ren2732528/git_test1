@@ -1,3 +1,5 @@
 my name is renchenghao.
 i am chinese.
 today is friday.
+today is july forty.
+it is my first time using git.
